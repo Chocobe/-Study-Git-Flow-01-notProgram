@@ -59,6 +59,8 @@ $ git tag 0.1
 $ git checkout -b develop
 ```
 
+<img src="readmeAssets/02_develop_브랜치에서_개발_시작.png" width="700px" alt="01_master_브랜치에_tag_설정하기"><br/>
+
 <br/>
 
 ``develop`` 브랜치는 삭제하지 않습니다.
