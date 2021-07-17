@@ -1,6 +1,6 @@
 # ``Git Flow Model`` 실습
 
-<img src="./readmeAssets/Git%20Flow%20Model.png" width="700px" alt="이미지: Git Flow Model"><br/>
+<img src="readmeAssets/00_Git_Flow_Model.png" width="700px" alt="이미지: Git Flow Model"><br/>
 
 ``Vincent Driessen``님의 ``Branch`` 관리 방법 입니다.
 
@@ -38,6 +38,8 @@ $ git checkout master
 ```bash
 $ git tag 0.1
 ```
+
+<img src="readmeAssets/01_master_브랜치에_tag_설정하기.png" width="700px" alt="01_master_브랜치에_tag_설정하기"><br/>
 
 <br/>
 
