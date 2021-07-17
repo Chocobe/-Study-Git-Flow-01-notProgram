@@ -232,8 +232,8 @@ $ git branch -d hotfixes/버전
 
 ## 07. ``Git Flow`` 예시 실습 결과
 
-<img src="./readmeAssets/Git%20Flow%20Model.png" width="700px" alt="이미지: Git Flow Model"><br/>
+지금까지 살펴보았던 ``master``, ``develop``, ``feature``, ``release``, ``hotfix`` 를 적용해 보면 다음과 같은 브랜치 관리를 할 수 있습니다.
 
-위의 ``Git Flow`` 흐름과 동일하게 만들면 다음과 같습니다.
+<img src="readmeAssets/07_Git%20Flow_예시_실습_결과.png" width="700px" alt="01_master_브랜치에_tag_설정하기"><br/>
 
-# > 이미지 넣기
+<br/>
