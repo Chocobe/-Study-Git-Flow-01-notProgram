@@ -7,3 +7,5 @@ short 프로그램 완료
 release/1.0 에서 수정 1
 
 release/1.0 에서 수정 2
+
+release/1.0 에서 수정 3
